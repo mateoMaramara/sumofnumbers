@@ -39,3 +39,4 @@ console.log(sumFor([1, 2, 3, 4]));//output 10
 console.log(sumWhile([1, 2, 3, 4]));//output 10
 console.log(sumRecursion([1, 2, 3, 4]));//output 10
 console.log(sumTheFunctionalWay([1, 2, 3, 4]));//output 10
+
